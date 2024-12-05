@@ -110,7 +110,6 @@ me.say_hi()
  </td>
  </tr>
  </table>
-> 
 
 
 You can find me on:
