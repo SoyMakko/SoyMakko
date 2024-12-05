@@ -109,9 +109,9 @@ me.say_hi()
  ![img](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
  </td>
  </tr>
- </table>
+ </table>  
+ 
 
-
-You can find me on:
+# You can find me on:
 ---
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiel-beltr%C3%A1n-grimaldo-5472b422a/)
