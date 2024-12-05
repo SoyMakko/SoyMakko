@@ -20,7 +20,7 @@ me.say_hi()
 > 
 > Here are some of the tools and technologies I've worked with:
 >  
-> <table style="width:100%">
+> <table style="width:100vw border-collapse:collapse; text-align:center;">
 > 
 <tr style="text-align: center">
 <td>
