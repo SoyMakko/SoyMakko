@@ -14,14 +14,17 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+![img] (https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
 ```
 > # Tools and Technologies I use:
 > Here are some of the tools and technologies I've worked with:
 > <table style="width:100%">
 <tr>
 <td>
+ :
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 </td>
+ :
 <td>
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </td>
