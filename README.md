@@ -9,7 +9,8 @@ class SoftwareEngineer:
         self.language_spoken = ["Spanish", "English", "German"]
 
     def say_hi(self):
-        print("Hello! I'm an 8th-semester student at the Polytechnic University of San Luis Potosí, Mexico.")
+        print("Hello! I'm an 8th-semester student at the Polytechnic University of San Luis Potosi,
+        Mexico.")
 
 
 me = SoftwareEngineer()
