@@ -14,7 +14,6 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-![img] (https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
 ```
 > # Tools and Technologies I use:
 > Here are some of the tools and technologies I've worked with:
