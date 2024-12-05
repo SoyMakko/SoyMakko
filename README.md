@@ -1,3 +1,25 @@
+# Hello and Welcome to my profile!
+
+ ```python
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Cassiel Beltrán Grimaldo"
+        self.role = "Junior Software Engineer | Junior Data Analyst | Junior DBA"
+        self.language_spoken = ["Spanish", "English", "German"]
+
+    def say_hi(self):
+        print("Hello! I'm an 8th-semester student at the Polytechnic University of San Luis Potosí, Mexico.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+
+```
+> # Tools and Technologies I use:  
+> 
+> Here are some of the tools and technologies I've worked with:
+>  
 <table style="width:100%; border-collapse:collapse; text-align:center;">
 <tr>
 <td>
@@ -89,3 +111,8 @@
 </td>
 </tr>
 </table>
+
+
+You can find me on:
+---
+[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiel-beltr%C3%A1n-grimaldo-5472b422a/)
