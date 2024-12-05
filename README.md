@@ -1,37 +1,12 @@
-# Hello and Welcome to my profile!
-
- ```python
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Cassiel Beltrán Grimaldo"
-        self.role = "Junior Software Engineer | Junior Data Analyst | Junior DBA"
-        self.language_spoken = ["Spanish", "English", "German"]
-
-    def say_hi(self):
-        print("Hello! I'm an 8th-semester student at the Polytechnic University of San Luis Potosí, Mexico.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-
-```
-> # Tools and Technologies I use:  
-> 
-> Here are some of the tools and technologies I've worked with:
->  
-> <table style="width:100vw border-collapse:collapse; text-align:center;">
-> 
-<tr style="text-align: center">
+<table style="width:100%; border-collapse:collapse; text-align:center;">
+<tr>
 <td>
 
 ![img](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 </td>
-
 <td>
 
 ![img](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
 </td>
 <td>
 
@@ -39,7 +14,7 @@ me.say_hi()
 </td>
 </tr>
 
-<tr style="text-align: center">
+<tr>
 <td>
 
 ![img](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -54,7 +29,7 @@ me.say_hi()
 </td>
 </tr>
 
-<tr style="text-align: center">
+<tr>
 <td>
 
 ![img](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -69,7 +44,7 @@ me.say_hi()
 </td>
 </tr>
 
-<tr style="text-align: center">
+<tr>
 <td>
 
 ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -84,7 +59,7 @@ me.say_hi()
 </td>
 </tr>
 
-<tr style="text-align: center">
+<tr>
 <td>
 
 ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -99,7 +74,7 @@ me.say_hi()
 </td>
 </tr>
 
-<tr style="text-align: center">
+<tr>
 <td>
 
 ![img](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -114,7 +89,3 @@ me.say_hi()
 </td>
 </tr>
 </table>
-
-You can find me on:
----
-[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiel-beltr%C3%A1n-grimaldo-5472b422a/)
