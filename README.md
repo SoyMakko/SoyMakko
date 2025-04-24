@@ -5,16 +5,19 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Cassiel Beltrán Grimaldo"
-        self.role = "Junior Software Engineer | Junior Data Analyst | Junior DBA"
-        self.language_spoken = ["Spanish", "English", "German"]
+        self.role = "Junior Software Engineer | Junior Data Analyst | Aspiring Data Scientist"
+        self.languages_spoken = ["Spanish", "English", "German"]
 
     def say_hi(self):
-        print("Hello! I'm an 8th-semester student at the Polytechnic University of San Luis Potosi,
-        Mexico.")
+        return (
+            "Hello! I'm an 8th-semester student at the Polytechnic University of San Luis Potosí, "
+            "Mexico. Passionate about technology, data, and continuous learning."
+        )
 
 
 me = SoftwareEngineer()
-me.say_hi()
+print(me.say_hi())
+
 
 ```
 > # Tools and Technologies I use:  
